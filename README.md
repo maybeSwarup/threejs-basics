@@ -1,6 +1,4 @@
-<div id="top"></div
-
-<!-- PROJECT LOGO -->
+<div id="top"></div>
 <br />
 <div align="center">
   <h3 align="center">THREE.js Basics</h3>
@@ -17,9 +15,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [Three.js](https://threejs.org/)
 * [Vite.js](https://vitejs.dev/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -47,8 +42,9 @@ This is an example of how to list things you need to use the software and how to
 ### Available NPM Scripts
 
 In the project directory, you can run:
-
-### `npm run dev`
+```sh
+npm run dev
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
